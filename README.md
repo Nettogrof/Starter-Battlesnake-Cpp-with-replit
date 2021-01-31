@@ -103,7 +103,7 @@ Now you have everything you need to start making your Battlesnake super smart! H
 
 * Keeping your Repl open in a second window while games are running is helpful for watching server activity and debugging any problems with your Battlesnake.
 
-* The projected is configured with the error_log that you can use the code [cout]](https://www.cplusplus.com/reference/iostream/cout/) to output information to your server logs. This is very useful for debugging logic in your code during Battlesnake games.
+* The projected is configured with the error_log that you can use the code [cout](https://www.cplusplus.com/reference/iostream/cout/) to output information to your server logs. This is very useful for debugging logic in your code during Battlesnake games.
 
 * Review the [Battlesnake API Docs](https://docs.battlesnake.com/snake-api) to learn what information is provided with each command.
 
